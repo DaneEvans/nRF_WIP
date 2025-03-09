@@ -8,3 +8,6 @@ This is the old [Nordic Docker image](https://github.com/NordicPlayground/nrf-do
 
 We should be able to use the Zephyr images :
 [here](https://github.com/zephyrproject-rtos/docker-image/pkgs/container/ci)
+
+Theres a walkthrough of CI. 
+https://interrupt.memfault.com/blog/ncs-github-actions
